@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SkillSet",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "IXtyh-Ntj0y39-Er-oCmlQ",
+  "Reference": "FP2v6IPSqk-a4iRDnV1iYg/IXtyh-Ntj0y39-Er-oCmlQ",
+  "ParentRef": "FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA",
+  "Created": "2024-02-13T11:02:44.2103809Z",
+  "Updated": "2024-02-13T11:03:00.1616192Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

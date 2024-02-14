@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Experience",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "ExRubXF_dkehw1lZ1IhIHA",
+  "Reference": "FP2v6IPSqk-a4iRDnV1iYg/ExRubXF_dkehw1lZ1IhIHA",
+  "ParentRef": "FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA",
+  "Created": "2024-02-13T11:00:34.0972133Z",
+  "Updated": "2024-02-13T11:00:54.0186826Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "PhoneNumber",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "lOYJtftFckW2WjqAHHMu7w",
+  "Reference": "FP2v6IPSqk-a4iRDnV1iYg/lOYJtftFckW2WjqAHHMu7w",
+  "ParentRef": "FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA",
+  "Created": "2024-02-13T10:59:07.6807091Z",
+  "Updated": "2024-02-13T10:59:34.8157279Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JsNVaPu79UWqKnPkKivQYw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/d/e/1FAIpQLScasOamd_pGakncbzYCsqxFBxlC7yrU8dfWr62STCOxbv1GWA/viewform" CvElementArea="364, 420, 304, 31" CvType="InputBox" DesignTimeRectangle="369, 425, 295, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aria-labelledby='i17' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i17' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="02395ec8-94a2-471b-9189-2d311a1decd7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Untitled form' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="976d47da904ce7ae26166e7dd4c68178.png" xmlns="">0n9hZP-JyyUmG3ohC-0fnYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

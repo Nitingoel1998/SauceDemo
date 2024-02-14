@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Education And Qualification",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "anZgq0fIAEa6MqWxAJ_eAw",
+  "Reference": "FP2v6IPSqk-a4iRDnV1iYg/anZgq0fIAEa6MqWxAJ_eAw",
+  "ParentRef": "FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA",
+  "Created": "2024-02-13T11:01:35.5103005Z",
+  "Updated": "2024-02-13T11:01:54.6753096Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

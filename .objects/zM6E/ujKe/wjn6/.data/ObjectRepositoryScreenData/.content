@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="gGYps1KRzU--5Rf4vZ9qXQ" Reference="FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="b8iIXlcULUSaV8QHCaAl0g" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Reference="FP2v6IPSqk-a4iRDnV1iYg/wjn6mrWQ70O9W2gJjlgXWA" Selector="&lt;html app='msedge.exe' title='Untitled form' /&gt;" Title="Untitled form" Url="https://docs.google.com/forms/d/e/1FAIpQLScasOamd_pGakncbzYCsqxFBxlC7yrU8dfWr62STCOxbv1GWA/viewform">
+      <imageRef attrName="InformativeScreenshot" originalValue="87966727c967af7a0870254ab5bf1839.jpg" xmlns="">0r4cyIpqAU0CFrxyJTmzAqA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

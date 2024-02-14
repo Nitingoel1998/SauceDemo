@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="grnISHu3L0W8BlujmDAWvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/d/e/1FAIpQLScasOamd_pGakncbzYCsqxFBxlC7yrU8dfWr62STCOxbv1GWA/formResponse" CvTextArea="375, 229, 158, 17" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="376, 229, 156, 17" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Submit another response'" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Submit another response' check:innerText='Submit another response' /&gt;" Guid="d297de04-3a12-4284-a573-5f3b80339b91" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Untitled form' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f9b29c2ae843b9722624a8266e7995cd.png" xmlns="">03Yt-RnypfkKf2v_DJtk4Jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

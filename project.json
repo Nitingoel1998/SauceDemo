@@ -6,15 +6,16 @@
   "dependencies": {
     "objRepo": "[1.0.1]",
     "ReporterForUiPath.Activities": "[3.0.1]",
+    "UiPath.Excel.Activities": "[2.23.0-preview]",
     "UiPath.System.Activities": "[23.4.2]",
     "UiPath.Testing.Activities": "[23.4.0]",
-    "UiPath.UIAutomation.Activities": "[23.10.8]"
+    "UiPath.UIAutomation.Activities": "[23.12.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.12.0.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.161586666",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
